@@ -1,4 +1,4 @@
-# Final Project Pemrograman Integratif
+# Final Project Pemrograman Integratif ( Belum selesai )
 ### Nama  : Muhammad Zulfikar Fauzi
 ### NRP   : 05311840000012
 
@@ -7,3 +7,7 @@ Ini adalah sebuah aplikasi web sederhana yang memungkinkan orang/pengunjung untu
 - Bahan Makanan
 - Obat - obatan
 Data akan tersimpan dalam database.
+
+# TODO :
+[ ] View
+[ ] Routing
